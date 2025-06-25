@@ -1,0 +1,242 @@
+[
+    {
+        "text": "Quelle est la capitale de la France ?",
+        "title": "Question 1",
+        "image": "/Images/France.jpg",
+        "position": 1,
+        "possibleAnswers": [
+            {
+                "text": "Paris",
+                "isCorrect": true
+            },
+            {
+                "text": "Marseille",
+                "isCorrect": false
+            },
+            {
+                "text": "Lyon",
+                "isCorrect": false
+            },
+            {
+                "text": "Nice",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "text": "Quelle est la capitale de l'Allemagne ?",
+        "title": "Question 2",
+        "image": "/Images/Allemagne.jpg",
+        "position": 2,
+        "possibleAnswers": [
+            {
+                "text": "Munich",
+                "isCorrect": false
+            },
+            {
+                "text": "Berlin",
+                "isCorrect": true
+            },
+            {
+                "text": "Francfort",
+                "isCorrect": false
+            },
+            {
+                "text": "Hambourg",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "text": "Quelle est la capitale du Japon ?",
+        "title": "Question 3",
+        "image": "/Images/Japon.jpg",
+        "position": 3,
+        "possibleAnswers": [
+            {
+                "text": "Osaka",
+                "isCorrect": false
+            },
+            {
+                "text": "Tokyo",
+                "isCorrect": true
+            },
+            {
+                "text": "Kyoto",
+                "isCorrect": false
+            },
+            {
+                "text": "Nagasaki",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "text": "Quelle est la capitale de l'Australie ?",
+        "title": "Question 4",
+        "image": "/Images/Australie.jpg",
+        "position": 4,
+        "possibleAnswers": [
+            {
+                "text": "Sydney",
+                "isCorrect": false
+            },
+            {
+                "text": "Melbourne",
+                "isCorrect": false
+            },
+            {
+                "text": "Canberra",
+                "isCorrect": true
+            },
+            {
+                "text": "Brisbane",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "text": "Quelle est la capitale du Canada ?",
+        "title": "Question 5",
+        "image": "/Images/Canada.jpg",
+        "position": 5,
+        "possibleAnswers": [
+            {
+                "text": "Toronto",
+                "isCorrect": false
+            },
+            {
+                "text": "Ottawa",
+                "isCorrect": true
+            },
+            {
+                "text": "Vancouver",
+                "isCorrect": false
+            },
+            {
+                "text": "Montréal",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "text": "Quelle est la capitale de la Russie ?",
+        "title": "Question 6",
+        "image": "/Images/Russie.jpg",
+        "position": 6,
+        "possibleAnswers": [
+            {
+                "text": "Saint-Pétersbourg",
+                "isCorrect": false
+            },
+            {
+                "text": "Moscou",
+                "isCorrect": true
+            },
+            {
+                "text": "Kazan",
+                "isCorrect": false
+            },
+            {
+                "text": "Novossibirsk",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "text": "Quelle est la capitale de l'Inde ?",
+        "title": "Question 7",
+        "image": "/Images/Inde.jpg",
+        "position": 7,
+        "possibleAnswers": [
+            {
+                "text": "Mumbai",
+                "isCorrect": false
+            },
+            {
+                "text": "Delhi",
+                "isCorrect": true
+            },
+            {
+                "text": "Bangalore",
+                "isCorrect": false
+            },
+            {
+                "text": "Chennai",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "text": "Quelle est la capitale du Brésil ?",
+        "title": "Question 8",
+        "image": "/Images/Bresil.jpg",
+        "position": 8,
+        "possibleAnswers": [
+            {
+                "text": "Rio de Janeiro",
+                "isCorrect": false
+            },
+            {
+                "text": "São Paulo",
+                "isCorrect": false
+            },
+            {
+                "text": "Brasilia",
+                "isCorrect": true
+            },
+            {
+                "text": "Salvador",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "text": "Quelle est la capitale de l'Afrique du Sud ?",
+        "title": "Question 9",
+        "image": "/Images/Afrique-du-Sud.jpeg",
+        "position": 9,
+        "possibleAnswers": [
+            {
+                "text": "Pretoria",
+                "isCorrect": true
+            },
+            {
+                "text": "Johannesburg",
+                "isCorrect": false
+            },
+            {
+                "text": "Le Cap",
+                "isCorrect": false
+            },
+            {
+                "text": "Durban",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "text": "Quelle est la capitale de l'Égypte ?",
+        "title": "Question 10",
+        "image": "/Images/Egypte.jpg",
+        "position": 10,
+        "possibleAnswers": [
+            {
+                "text": "Marrakech",
+                "isCorrect": false
+            },
+            {
+                "text": "Alexandrie",
+                "isCorrect": false
+            },
+            {
+                "text": "Reykjavik",
+                "isCorrect": false
+            },
+            {
+                "text": "Le Caire",
+                "isCorrect": true
+            }
+        ]
+    }
+]

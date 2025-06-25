@@ -1,0 +1,6 @@
+venv
+__pycache__
+dataBase.db
+dataBase.db-shm
+dataBase.db-wal
+dataBase.sqbpro
